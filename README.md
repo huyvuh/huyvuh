@@ -12,9 +12,11 @@ Hello, I'm Huy. Data Analyst with expertise in data analysis and reporting, quer
 Welcome to my portfolio, where I showcase my [projects](#).
 
 🛠️ **Tools**
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Tableau, Looker Studio
+
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
 
 👋🏻 **Connect with Me**
-Linkedin
+
+- [Linkedin](#)
