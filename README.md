@@ -13,7 +13,7 @@ Welcome to my portfolio, where I showcase my [projects](#).
 
 🛠️ **Tools**
 
-- Language: SQL, Python
+- Language: SQL, Python, R
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Looker Studio
 
